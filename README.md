@@ -1,4 +1,4 @@
-# Stock Market Data Engineering Pipeline
+# NSE-Stock-Data-Pipeline
 
 A beginner-friendly, professional end-to-end data engineering project that fetches stock market data from a REST API, processes it, stores it in an SQLite database, and runs analytical SQL queries.
 
